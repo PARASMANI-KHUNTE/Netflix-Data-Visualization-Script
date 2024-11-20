@@ -18,8 +18,8 @@ seaborn
 1️⃣ Clone or Download the Repository
 bash
 Copy code
-git clone https://github.com/your-repo/netflix-data-visualization.git
-cd netflix-data-visualization
+git clone https://github.com/PARASMANI-KHUNTE/Netflix-Data-Visualization-Script.git
+cd Netflix-Data-Visualization-Scrip
 2️⃣ Install Python
 Download and install Python 3.13+ from the official website.
 Ensure Python is added to your system's PATH during installation.
@@ -77,5 +77,5 @@ Submit a pull request
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👩‍💻 Author
-Your Name
-🌐 GitHub Profile | 💼 LinkedIn Profile
+Parasmani Khunte
+🌐 [GitHub Profile](https://github.com/PARASMANI-KHUNTE) | 💼 [LinkedIn Profile](https://www.linkedin.com/in/parasmani-khunte-330488228/)
